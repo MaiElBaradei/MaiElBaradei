@@ -1,10 +1,11 @@
-<h1 align="![octocat-1685540660484](https://github.com/MaiElBaradei/MaiElBaradei/assets/77697746/a15f3439-7cfa-4458-9703-cc96373203c9)
+
+<h1 align="![octocat-1685540660484](https://github.com/MaiElBaradei/MaiElBaradei/octocat-1685540660484.png)
 center">Hi 👋, I'm Mai Hassanin ElBaradei</h1>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 📫 How to reach me **maielbaradei@gmail.com**
-
+<img align="right" width="400" src = "https://github.com/MaiElBaradei/MaiElBaradei/octocat-1685540660484.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maielbaradei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maielbaradei" height="30" width="40" /></a>
