@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **maielbaradei@gmail.com**
 
-<p><img align="right" src="https://github.com/MaiElBaradei/MaiElBaradei/octocat-1685540660484.png" alt="octocatmai" /></p>
+<p><img align="right" width="400" src="https://github.com/MaiElBaradei/MaiElBaradei/blob/main/octocat-1685540660484.png" alt="octocatmai" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
