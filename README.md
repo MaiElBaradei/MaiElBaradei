@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mai Hassanin ElBaradei</h1>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently a **Machine Learning Engineer**
 
 - 📫 How to reach me **maielbaradei@gmail.com**
 
